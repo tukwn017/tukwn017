@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Problem solving and Backend development**
 
-- 👯 I’m looking for a **Software Engineer**
+- 👯 I’m looking for work as **Software Engineer**
 
 - 💬 Ask me about **Problem Solving algorithms**
 
